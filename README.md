@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Anderson 👋
 
-<!--
-**AndersonKolody/AndersonKolody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Mecânico de automóveis: mecânica geral, elétrica e injeção eletrônica
+⚙️ Câmbio automático e transmissões (Allison)
+📚 Aprendendo programação, IA e inglês todos os dias
+🎥 Criando conteúdo sobre mecânica
 
-Here are some ideas to get you started:
+## Em que estou trabalhando
+- Skills e automações com IA para a oficina
+- Estudando inglês técnico de mecânica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## English corner
+I am a mechanic from Brazil. I am learning English every day.
